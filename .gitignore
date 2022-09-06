@@ -1,0 +1,5 @@
+*.jlink
+*.emsession
+*.emProject
+output/
+*.xml
